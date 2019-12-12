@@ -1,7 +1,5 @@
 module.exports = function(eleventyConfig) {
-  
     eleventyConfig.addWatchTarget("./src/styles/");
-    // You can return your Config object (optional).
     return {
         dir: {
             input: "src",
