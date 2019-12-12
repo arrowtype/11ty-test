@@ -1,0 +1,9 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box; }
+
+body {
+  background: blue;
+  color: white; }
+/*# sourceMappingURL=main.css.map */

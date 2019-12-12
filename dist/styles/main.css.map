@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/styles/_reset.scss","../../src/styles/ui.scss"],"names":[],"mappings":"AAAA;;;EAGE,sBAAsB,EAAA;;ACHxB;EACI,gBAAgB;EAChB,YAAY,EAAA","file":"main.css","sourcesContent":["*,\n*:after,\n*:before {\n  box-sizing: border-box;\n}","body {\n    background: blue;\n    color: white;\n}"]}
