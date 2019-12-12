@@ -1,14 +1,3 @@
-// module.exports = {
-//     dir: {
-//         input: "src",
-//         output: "dist"
-//         // relative to 'input' (these are inside 'src')
-//         includes: "_includes",
-//         layouts: "_layouts"
-//     },
-//     htmlTemplateEngine: "njk"
-// };
-
 module.exports = function(eleventyConfig) {
   
     eleventyConfig.addWatchTarget("./src/styles/");
@@ -25,7 +14,3 @@ module.exports = function(eleventyConfig) {
         htmlTemplateEngine: "njk"
     };
   };
-
-// module.exports = function(eleventyConfig) {
-// eleventyConfig.addWatchTarget("./src/scss/");
-// };
